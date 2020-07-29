@@ -1,2 +1,2 @@
 # Data Structure Problems
-* Arrays - DS [ [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/arrays-ds.py)]
+* Arrays - DS [ [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/arrays-ds.py) ]
