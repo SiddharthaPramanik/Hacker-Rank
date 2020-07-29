@@ -1,0 +1,2 @@
+# Python Practice Problems
+* Find the Runner-Up Score! [ [Problem](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) | [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/find-the-runner-up-score.py)]

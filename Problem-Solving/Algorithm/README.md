@@ -1,0 +1,2 @@
+# Algorithm Problems
+* Birthday Cake Candles [ [Problem](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Algorithm/birthday-cake-candles.py)]
