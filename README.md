@@ -1,10 +1,10 @@
 # Hacker-Rank
 My solutions to HackerRank problems
 
-Rankings [July 29, 2020]:
+Rankings [July 31, 2020]:
 
 | Skills          | Rank    |
 | --------------- | ------: |
-| Python          | 190680  |
-| SQL             | 124355  |
-| Problem Solving | 953465  |
+| Python          | 191499  |
+| SQL             | 124723  |
+| Problem Solving | 867573  |
