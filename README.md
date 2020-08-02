@@ -5,6 +5,6 @@ Rankings [August 02, 2020]:
 
 | Skills          | Rank    |
 | --------------- | ------: |
-| Python          | 183915  |
-| SQL             | 124723  |
-| Problem Solving | 788005  |
+| Python          | 183976  |
+| SQL             | 115939  |
+| Problem Solving | 788128  |
