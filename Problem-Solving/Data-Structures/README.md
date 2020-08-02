@@ -1,3 +1,6 @@
 # Data Structure Problems
-* Arrays - DS [ [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) | [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/arrays-ds.py) ]
-* 2D Arrays - DS [ [Problem](https://www.hackerrank.com/challenges/2d-array/problem) | [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/2D-array-ds.py) ]
+
+|Problem Names|Links|
+| :--- | :---: |
+|Arrays - DS | [Problem](https://www.hackerrank.com/challenges/arrays-ds/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/arrays-ds.py)
+|2D Arrays - DS | [Problem](https://www.hackerrank.com/challenges/2d-array/problem)  [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/2D-array-ds.py) |
