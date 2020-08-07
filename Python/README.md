@@ -7,3 +7,4 @@ Nested Lists | [Problem](https://www.hackerrank.com/challenges/nested-list/probl
 Finding the percentage | [Problem](https://www.hackerrank.com/challenges/finding-the-percentage/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/finding-the-percentage.py) |
 Re.findall() & Re.finditer() | [Problem](https://www.hackerrank.com/challenges/re-findall-re-finditer/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/finditer-findall.py) |
 Re.start() & Re.end() | [Problem](https://www.hackerrank.com/challenges/re-start-re-end/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/start-end.py) |
+Merge the Tools! | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/merge-the-tools.py) |
