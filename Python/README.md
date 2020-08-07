@@ -9,3 +9,4 @@ Re.findall() & Re.finditer() | [Problem](https://www.hackerrank.com/challenges/r
 Re.start() & Re.end() | [Problem](https://www.hackerrank.com/challenges/re-start-re-end/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/start-end.py) |
 Merge the Tools! | [Problem](https://www.hackerrank.com/challenges/merge-the-tools/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/merge-the-tools.py) |
 Time Delta | [Problem](https://www.hackerrank.com/challenges/python-time-delta/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/time-delta.py) |
+Compress the String! | [Problem](https://www.hackerrank.com/challenges/compress-the-string/problem) [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Python/compress-the-string.py) |
