@@ -7,3 +7,4 @@
 Dynamic Array | [Problem](https://www.hackerrank.com/challenges/dynamic-array/problem)  [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/dynamic-array.py) |
 Left Rotation | [Problem](https://www.hackerrank.com/challenges/array-left-rotation/problem)  [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/left-rotation.py) |
 Sparse Arrays | [Problem](https://www.hackerrank.com/challenges/sparse-arrays/problem)  [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/sparse-arrays.py) |
+Array Manipulation | [Problem](https://www.hackerrank.com/challenges/crush/problem)  [Solution](https://github.com/SiddharthaPramanik/Hacker-Rank/blob/master/Problem-Solving/Data-Structures/array-manipulation.py) |
