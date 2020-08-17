@@ -1,7 +1,7 @@
 # Hacker-Rank
 My solutions to HackerRank problems
 
-Rankings [August 16, 2020]:
+Rankings [August 17, 2020]:
 
 | Skills          | Rank    |
 | --------------- | ------: |
